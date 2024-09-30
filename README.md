@@ -1,6 +1,6 @@
 **Name:** SAI TEJA SORRA
 
-**Company:** CODETECH IT SOLUTIONS
+**Company:** CODTECH IT SOLUTIONS
 
 **ID:** CT08DS7625
 
